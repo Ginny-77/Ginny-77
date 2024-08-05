@@ -1,12 +1,51 @@
-- 👋 Hi, I’m @Ginny-77
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+bio:  Multi-omics, Wearable Devices, Epidemiology.
+education:
+  courses:
+  - course: PhD in Clinical Medicine (Ophthalmology)
+    institution: Southern Medical University and Nanyang Technological University
+    year: 2020-2026
+email: "duzijing0701@163.com"
+commentable: true
+first_name: Zijing
+last_name: Du
+highlight_name: true
+interests:
+- ⌚️ Wearable devices
+- 💰 Multi-omics
+- 🌐 Epidemiology
+organizations:
+- name: Southern Medical University and Nanyang Technological University
+  url: ""
+role: PhD Candidate
+social:
+- icon: house
+  icon_pack: fas
+  link: https://github.com/Ginny-77
+- icon: envelope
+  icon_pack: fas
+  link: duzijing0701@163.com
+- display:
+    header: true
+  icon: github
+  icon_pack: fab
+  label: Follow us on GitHub
+  link: https://github.com/jaspershen-lab
+- display:
+    header: true
+# - icon: cv
+#   icon_pack: ai
+#   link:
+status:
+  icon: 👻
+superuser: false
+title: PhD Candidate
+user_groups:
+- Students
+- PhD Candidate
+---
 
-<!---
-Ginny-77/Ginny-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+My primary research interests revolve around the epidemiology of eye diseases and systemic diseases, and exploring disease mechanisms based on wearable devices and multi-omics approaches.
+ 
+
