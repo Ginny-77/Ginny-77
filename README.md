@@ -35,11 +35,11 @@ lab:
 #   link:
 status:
   icon: 👻
-superuser: false
+# superuser: false
 title: PhD Candidate
-user_groups:
-- Students
-- PhD Candidate
+# user_groups:
+# - Students
+#- PhD Candidate
 ---
 
 
