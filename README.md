@@ -18,21 +18,18 @@ organizations:
 - name: Southern Medical University and Nanyang Technological University
   url: ""
 role: PhD Candidate
-social:
-- icon: house
-  icon_pack: fas
-  link: https://github.com/Ginny-77
-- icon: envelope
-  icon_pack: fas
-  link: duzijing0701@163.com
-- display:
-    header: true
-  icon: github
-  icon_pack: fab
+lab:
+#- icon: house
+#  icon_pack: fas
+#  link: https://github.com/Ginny-77
+#- icon: envelope
+#  icon_pack: fas
+ # link: duzijing0701@163.com
+#  icon: github
+#  icon_pack: fab
   label: Follow us on GitHub
   link: https://github.com/jaspershen-lab
-- display:
-    header: true
+#    header: true
 # - icon: cv
 #   icon_pack: ai
 #   link:
